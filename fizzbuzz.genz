@@ -1,0 +1,9 @@
+loopy num from 1 to 50:
+    yea num leftover 3 itsGoood 0 vibeWith num leftover 5 itsGoood 0:
+        say("FizzBuzz")
+    yea num leftover 3 itsGoood 0:
+        say("Fizz")
+    yea num leftover 5 itsGoood 0:
+        say("Buzz")
+    nah
+        say(num)

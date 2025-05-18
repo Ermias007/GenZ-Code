@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+    color: black;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: whitesmoke;
+    padding: 25px;
+}
+
+h1, h2{
+    color: rgba(82, 28, 28, 0.739);
+}
+
+.btn {
+    display: inline-block;
+    background-color: #28a745;
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+
+code {
+    background-color: wheat;
+    padding: 2px 6px;
+}

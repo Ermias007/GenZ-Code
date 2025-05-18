@@ -1,0 +1,23 @@
+km = 0
+kg = 67
+litres = 2
+
+milesConversion = 0.621371
+poundsConversion = 2.20462
+gallonsConversion = 0.264172
+
+miles = km stackUp milesConversion
+pounds = kg stackUp poundsConversion
+gallons = litres stackUp gallonsConversion
+
+say("Australian metric system to american metric system conversion: ")
+
+say("Given km in miles:")
+say(miles)
+say("\n")
+say("Given kg in pounds: ")
+say(pounds)
+say("\n")
+say("Given litres in gallons: ")
+say(gallons)
+

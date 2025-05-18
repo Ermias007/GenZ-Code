@@ -1,0 +1,12 @@
+fuel = 15
+fullTank = 100
+low = 20
+
+say("scanning fuel level...")
+
+yea fuel itsGoood fullTank:
+    say("You have a full tank!!!")
+
+otherwise fuel worse low:
+    say("tank is on E, find a nearby gas station quick.")
+

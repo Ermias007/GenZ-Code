@@ -1,0 +1,3 @@
+debt = 340
+paidOff = 234
+say(debt takeSome paidOff)
